@@ -1,4 +1,4 @@
-# This project has been deprecated in favor of [Comunica's jQuery Widget fork](https://github.com/comunica/jQuery-Widget.js), which is part of the [Comunica](https://github.com/comunica/comunica) platform. It can do everything this jQuery-Widget.js can do, and more.
+# This project has been deprecated in favor of [Comunica's jQuery Widget](https://github.com/comunica/jQuery-Widget.js), which is part of the [Comunica](https://github.com/comunica/comunica) platform. It can do everything this jQuery-Widget.js can do, and more.
 
 -----
 
